@@ -1,0 +1,206 @@
+    
+    
+    <header class="top-bar-background">
+            <nav class="top-bar">
+                <div class="logos">
+                    <ion-icon name="logo-instagram"></ion-icon>
+                    <div class="logo-divider"></div>
+                    <img src="Bonus/logo.png"/>
+                </div>
+                <div class="search-bar">
+                    <ion-icon name="search-outline"></ion-icon>
+                    <p>Pesquisar</p>
+                </div>
+                <div class="buttons">
+                    <ion-icon name="paper-plane-outline" class="ion-plane"></ion-icon>
+                    <ion-icon name="compass-outline" class="ion-compass"></ion-icon>
+                    <ion-icon name="heart-outline" class="ion-heart"></ion-icon>
+                    <ion-icon name="person-outline" class="ion-person"></ion-icon>
+                </div>
+                <aside class="sidebar">
+                        <div class="user-info">
+                            <img src="profile pics/profile pic 14.jpg"/>
+                            <div>
+                            <h2>iamnotaunicorn</h2>
+                            <h3>Dominique Gentil</h3>
+                            </div>
+                        </div>
+                        <div class="suggestions">
+                            <h4>Sugestões para você</h4>
+                            <p>Ver tudo</p>
+                        </div>
+                        <div class="users-to-follow">
+                            <img src="profile pics/profile pic 1.jpg"/>
+                            <div>
+                            <h2>amandabiancchiii</h2>
+                            <h5>Segue você</h5>
+                            </div>
+                            <p>Seguir</p>
+                        </div>
+                        <div class="users-to-follow">
+                            <img src="profile pics/profile pic 2.jpg"/>
+                            <div>
+                            <h2>dinizvioleta</h2>
+                            <h5>Segue você</h5>
+                            </div>
+                            <p>Seguir</p>
+                        </div>
+                        <div class="users-to-follow">
+                            <img src="profile pics/profile pic 3.jpg"/>
+                            <div>
+                            <h2>giardini</h2>
+                            <h5>Segue você</h5>
+                            </div>
+                            <p>Seguir</p>
+                        </div>
+                        <div class="users-to-follow">
+                            <img src="profile pics/profile pic 4.jpg"/>
+                            <div>
+                            <h2>carlamamama</h2>
+                            <h5>Segue você</h5>
+                            </div>
+                            <p>Seguir</p>
+                        </div>
+                        <div class="users-to-follow">
+                            <img src="profile pics/profile pic 11.jpg"/>
+                            <div>
+                            <h2>diogojulianoator</h2>
+                            <h5>Segue você</h5>
+                            </div>
+                            <p>Seguir</p>
+                        </div>
+                        <div class="useful-buttons">
+                            <p>Sobre • Ajuda • Imprensa • API • Carreiras • Privacidade •
+                                Termos • Localizações • Contas mais relevantes • Hashtags • 
+                                Idioma</p>
+                        </div>
+                        <div class="copyright">
+                            <p>© 2022 INSTAGRAM DO FACEBOOK</p>
+                        </div>
+                </aside>
+            </nav>
+    </header>
+
+    <main class="page-content">
+            <article class="stories-box">
+                <ion-icon name="chevron-forward-circle"></ion-icon>
+                <div class="stories-user">
+                        <img src="profile pics/profile pic 12.jpg"/>
+                        <h6>gutoodoceu</h6>
+                </div>
+                <div class="stories-user">
+                        <img src="profile pics/profile pic 13.jpg"/>
+                        <h6>soualice</h6>
+                </div>
+                <div class="stories-user">
+                        <img src="profile pics/profile pic 5.jpg"/>
+                        <h6>ohanajulia</h6>
+                </div>
+                <div class="stories-user">
+                        <img src="profile pics/profile pic 6.jpg"/>
+                        <h6>sassyceci</h6>
+                </div>
+                <div class="stories-user">
+                        <img src="profile pics/profile pic 7.jpg"/>
+                        <h6>jessebunnyboy</h6>
+                </div>
+                <div class="stories-user">
+                        <img src="profile pics/profile pic 8.jpg"/>
+                        <h6>planetalia</h6>
+                </div>
+                <div class="stories-user">
+                        <img src="profile pics/profile pic 9.png"/>
+                        <h6>nossoquintal</h6>
+                </div>
+                <div class="stories-user">
+                        <img src="profile pics/profile pic 3.jpg"/>
+                        <h6>giardini</h6>
+                </div>
+            </article>
+            <article class="post-column">
+                <section class="post">
+                    <header class="post-header">
+                        <img src="profile pics/profile pic 14.jpg"/>
+                        <h2>notaunicorn</h2>
+                        <ion-icon name="ellipsis-horizontal-outline"></ion-icon>
+                    </header>
+                    <div class="post-image">
+                        <img src="posts/baixados.jpg"/>
+                    </div>
+                    <footer class="post-footer">
+                        <div class="top-line">
+                            <ion-icon name="heart-outline"></ion-icon>
+                            <ion-icon name="chatbubble-outline"></ion-icon>
+                            <ion-icon name="paper-plane-outline"></ion-icon>
+                            <ion-icon name="bookmark-outline"></ion-icon>
+                        </div>
+                        <div class="bottom-line">
+                            <img src="profile pics/profile pic 3.jpg"/>
+                            <p>Curtido por</p>
+                            <p><strong>giardini</strong></p>
+                            <p>e</p>
+                            <p><strong>outras 142.437 pessoas</strong></p>
+                        </div>
+                    </footer>
+                </section>
+
+                <section class="post">
+                    <header class="post-header">
+                        <img src="profile pics/profile pic 8.jpg"/>
+                        <h2>planetalia</h2>
+                        <ion-icon name="ellipsis-horizontal-outline"></ion-icon>
+                    </header>
+                    <div class="post-image">
+                        <img src="posts/giraffe.jpg"/>
+                    </div>
+                    <footer class="post-footer">
+                        <div class="top-line">
+                            <ion-icon name="heart-outline"></ion-icon>
+                            <ion-icon name="chatbubble-outline"></ion-icon>
+                            <ion-icon name="paper-plane-outline"></ion-icon>
+                            <ion-icon name="bookmark-outline"></ion-icon>
+                        </div>
+                        <div class="bottom-line">
+                            <img src="profile pics/profile pic 3.jpg"/>
+                            <p>Curtido por</p>
+                            <p><strong>diogojulianoator</strong></p>
+                            <p>e</p>
+                            <p><strong>outras 205.537 pessoas</strong></p>
+                        </div>
+                    </footer>
+                </section>
+
+                <section class="post">
+                    <header class="post-header">
+                        <img src="profile pics/profile pic 5.jpg"/>
+                        <h2>ohanajulia</h2>
+                        <ion-icon name="ellipsis-horizontal-outline"></ion-icon>
+                    </header>
+                    <div class="post-image">
+                        <img src="posts/bunnies.jpg"/>
+                    </div>
+                    <footer class="post-footer">
+                        <div class="top-line">
+                            <ion-icon name="heart-outline"></ion-icon>
+                            <ion-icon name="chatbubble-outline"></ion-icon>
+                            <ion-icon name="paper-plane-outline"></ion-icon>
+                            <ion-icon name="bookmark-outline"></ion-icon>
+                        </div>
+                        <div class="bottom-line">
+                            <img src="profile pics/profile pic 2.jpg"/>
+                            <p>Curtido por</p>
+                            <p><strong>dinizvioleta</strong></p>
+                            <p>e</p>
+                            <p><strong>outras 98.476 pessoas</strong></p>
+                        </div>
+                    </footer>
+                </section>
+            </article>
+    </main>
+    <footer class="mobile-footer">
+            <ion-icon name="home"></ion-icon>
+            <ion-icon name="search-outline"></ion-icon>
+            <ion-icon name="add-circle-outline"></ion-icon>
+            <ion-icon name="heart-outline"></ion-icon>
+            <ion-icon name="person-outline"></ion-icon>
+    </footer>
