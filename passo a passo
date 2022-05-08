@@ -1,0 +1,5 @@
+Array ou Objeto
+
+componente que recebe props e retorna elemento genérico
+
+componente que organiza o array/objeto (com .map) de acordo com o CSS [e o HTML estático]
