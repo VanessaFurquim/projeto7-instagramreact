@@ -71,3 +71,20 @@ export default function Post() {
         </article>
     );
 }
+
+// {/* <button onClick={() => AddLikedIcon("bolacha")}><ion-icon name={iconName}></ion-icon></button>
+
+// function AddLikedIcon(icon) {
+//     if (icon === "heart-outline") {
+//         // renderizar coração vermelho (classe .LikedIcon no CSS);
+//       } else {
+//         // renderizar coração branco e preto;
+//       }
+// } */}
+
+
+// criar um botão no lugar do ion icon
+
+// usar onClick com arrow function que usa a função AddLikedIcon para renderizar o icon liked de estiver o normal e vice versa
+
+// componente AddLikedIcon recebe um valor que difere o icon vermelho do normal como argumento

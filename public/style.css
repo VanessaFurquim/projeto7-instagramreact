@@ -74,6 +74,11 @@ h6 {
     flex-shrink: 0;
 }
 
+.logos img {
+    width: 103px;
+    height: 29px;
+}
+
 .logos ion-icon {
     font-size: 23px;
 }
@@ -406,10 +411,22 @@ h6 {
     font-size: 23px;
 }
 
+.likedIcon {
+    color: red;
+}
+
 @media (max-width: 935px) {
     .top-bar {
         width: 100%;
         padding: 0 20px;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .page-content {
+        align-items: center;
     }
 }
 
@@ -420,85 +437,56 @@ h6 {
         display: flex;
         justify-content: space-between;
     }
-}
 
-@media (max-width: 614px) {
     .logos {
         display: contents;
     }
-}
 
-.logos img {
-    width: 103px;
-    height: 29px;
-}
-
-@media (max-width: 614px) {
     .logos img {
         display: flex;
         justify-content: center;
     }
-}
 
-@media (max-width: 614px) {
     .logo-instagram {
         display: flex;
         justify-content: flex-start;
         margin-left: 21px;
     }
-}
 
-@media (max-width: 614px) {
     .logo-divider {
         display: none;
     }
-}
 
-@media (max-width: 614px) {
     .search-bar {
         display: none;
     }
-}
 
-@media (max-width: 614px) {
     .buttons {
         display: contents;
     }
+
     .ion-plane {
         display: flex;
         justify-content: flex-end;
     }
+
     .ion-compass {
         display: none;
     }
+
     .ion-heart {
         display: none;
     }
+
     .ion-person {
         display: none;
     }
-}
 
-@media (max-width: 935px) {
-    .sidebar {
-        display: none;
-    }
-}
-
-@media (max-width: 935px) {
-    .page-content {
-        align-items: center;
-    }
-}
-
-@media (max-width: 614px) {
     .page-content {
         display: contents;
         justify-content: center;
     }
-}
 
-@media (max-width: 614px) {
     .stories-box {
         width: 100%;
         height: 121px;
@@ -506,42 +494,29 @@ h6 {
         background: none;
         margin-top: 54px;
     }
-}
 
-@media (max-width: 614px) {
     .stories-box ion-icon {
         display: none;
     }
-}
 
-@media (max-width: 614px) {
     .post-column {
         width: 100%;
         margin-top: 0;
     }
-}
 
-@media (max-width: 614px) {
     .post {
         border: none;
     }
-}
 
-@media (max-width: 614px) {
     .post-header {
         border-top: 1px solid #DBDBDB;
     }
-}
 
-@media (max-width: 614px) {
     .post-footer {
         border-bottom: 1px solid #DBDBDB;
     }
-}
 
-@media (max-width: 614px) {
     .mobile-footer {
         display: flex;
     }
 }
-

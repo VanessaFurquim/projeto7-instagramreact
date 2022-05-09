@@ -50,7 +50,7 @@ export default function Aside() {
     return (
         <aside class="sidebar">
             <div class="user-info">
-                <UserInfo image={"profile pics/profile pic 14.jpg"} usernameHandle={"iamnotaunicorn"} userName={"Dominique Gentil"} />
+                <UserInfo image={"profile pics/profile pic 14.jpg"} usernameHandle={"notaunicorn"} userName={"Dominique Gentil"} />
             </div>
             <div class="suggestions">
                 <h4>Sugestões para você</h4>
